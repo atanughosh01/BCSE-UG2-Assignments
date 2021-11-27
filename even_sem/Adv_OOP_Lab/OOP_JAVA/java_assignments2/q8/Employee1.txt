@@ -1,0 +1,4 @@
+Emp_Code:1234    Name:Atanu Ghosh   Salary:15000  Dept_Code:R&D   Grade:B
+Emp_Code:6789    Name:Atanu Ghosh   Salary:25000  Dept_Code:R&D   Grade:B
+Emp_Code:4456    Name:Soumitra Sinha   Salary:150000  Dept_Code:Market   Grade:A
+Emp_Code:5566    Name:Atanu Ghosh   Salary:15000  Dept_Code:R&D   Grade:B
